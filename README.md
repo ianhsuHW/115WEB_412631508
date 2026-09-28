@@ -23,3 +23,13 @@
 ```text
 C:\Projects\115WEB_412631508
 ```
+
+## Week 2 練習
+
+本週學習 Git 基礎與版本控制。
+
+完成的 Git Workflow：
+
+```text
+修改檔案 → git status → git diff → git add → git commit → git log → git push
+```

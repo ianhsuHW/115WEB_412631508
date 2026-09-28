@@ -33,3 +33,6 @@ C:\Projects\115WEB_412631508
 ```text
 修改檔案 → git status → git diff → git add → git commit → git log → git push
 ```
+
+- 我已完成第一次 commit。
+- 我已理解工作目錄、暫存區、本機 Repository 與遠端 Repository 的差異。

@@ -1,0 +1,18 @@
+# 套件資料夾
+node_modules/
+
+# 環境設定檔
+.env
+.env.local
+
+# 記錄檔
+*.log
+
+# 作業系統與編輯器產生的檔案
+.DS_Store
+Thumbs.db
+.vscode/
+
+# 建置輸出
+dist/
+build/

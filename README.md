@@ -37,3 +37,10 @@ C:\Projects\115WEB_412631508
 
 - 我已完成第一次 commit。
 - 我已理解工作目錄、暫存區、本機 Repository 與遠端 Repository 的差異。
+
+## Week 3 練習
+
+本週學習 HTML 網頁基礎，完成個人自我介紹網站：
+
+- [Week03/index.html](Week03/index.html)：首頁，包含自我介紹、興趣清單與課程進度表。
+- [Week03/about.html](Week03/about.html)：關於我，包含基本資料與興趣介紹。
